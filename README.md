@@ -3,7 +3,9 @@ Demonstrate an aggregator of BTC price. Compares the price of INX vs Bitfinex an
 
 ## How to use?
 Clone the repository and `cd btc_aggregator`.
+
 Run `npm install`.
+
 Copy to btc_aggregator directory the two files you got from INX when creating an account for API:
 1. The file of your INX private key
 2. The file of your apiKeyId

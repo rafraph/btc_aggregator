@@ -13,8 +13,8 @@ Copy to btc_aggregator directory the two files you got from INX when creating an
 Run the project with `node app`
 
 ## What it does?
-This program register to the Order Book of INX and Bitfinex.
+This program register to the Order Books of INX and Bitfinex.
 
-It save the orders in an `SortedSet` and update it when new order arrived.
+It save the orders in a `SortedSet` and update it when new order arrived.
 
 Every 1.5 second it compares the prices and print to the console the best Buy and Sell prices between the two platforms.

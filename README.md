@@ -15,4 +15,4 @@ This program register to the Order Book of INX and Bitfinex.
 
 It save the orders in an order set and update it when new order arrived.
 
-Every 1.5 second it compare the prices and print to the console the lowest Buy price and the highest Sell price between the two platforms.
+Every 1.5 second it compares the prices and print to the console the best Buy/Sell price between the two platforms.
